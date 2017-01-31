@@ -1,0 +1,27 @@
+
+body{
+	font-family: helvetica, arial, sans;
+}
+
+p{
+	font-weight: normal;
+	line-height: 1.5;
+	font-size: 16px;
+}
+
+
+h3{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.container{
+	max-width: 800px;
+	padding: 5%;
+	margin: 0 auto;
+}
+
+.header{
+	border-bottom: 1px dashed #ccc;
+	margin-bottom: 50px;
+}
