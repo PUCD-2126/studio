@@ -15,6 +15,14 @@ h3{
 	font-size: 18px;
 }
 
+li{
+	line-height: 1.5;
+}
+
+.date{
+	font-style: italic;
+}
+
 .container{
 	max-width: 800px;
 	padding: 5%;
@@ -23,5 +31,12 @@ h3{
 
 .header{
 	border-bottom: 1px dashed #ccc;
-	margin-bottom: 50px;
+	margin-bottom: 60px;
+	padding-bottom: 20px;
+}
+
+.post{
+	border-bottom: 1px dashed #ccc;
+	margin-bottom: 60px;
+	padding-bottom: 20px;
 }
