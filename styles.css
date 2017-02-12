@@ -28,3 +28,7 @@ h3{
 	margin-bottom: 50px;
 	padding-bottom: 30px;
 }
+
+li.done{
+	text-decoration: line-through;
+}
